@@ -1,0 +1,1647 @@
+{
+  "species": [
+    {
+      "species_name": "Bazzania bhutanica",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "Budini and Lafeti Khola, Bhutan",
+      "population": {
+        "raw": "2 sub-populations",
+        "value": 2.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Forest clearance",
+        "overgrazing",
+        "development"
+      ]
+    },
+    {
+      "species_name": "Scaturiginichthys vermeilipinnis",
+      "common_name": "Red-finned blue-eye",
+      "type": "Fish",
+      "location": "Edgbaston Station, central western Queensland, Australia",
+      "population": {
+        "raw": "2",
+        "value": 2.0,
+        "qualifier": "exact"
+      },
+      "threats": []
+    },
+    {
+      "species_name": "Magnolia wolfii",
+      "common_name": "-",
+      "type": "Plant (Tree)",
+      "location": "Risaralda, Colombia",
+      "population": {
+        "raw": "3 individuals",
+        "value": 3.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Isolation of species",
+        "low regeneration rates"
+      ]
+    },
+    {
+      "species_name": "Rafetus swinhoei",
+      "common_name": "Red River giant softshell turtle",
+      "type": "Reptile",
+      "location": "Hoan Kiem Lake, Dong Mo Lake, Viet Nam, Suzhou Zoo, China",
+      "population": {
+        "raw": "3 individuals",
+        "value": 3.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Hunting for consumption",
+        "wetland destruction",
+        "pollution"
+      ]
+    },
+    {
+      "species_name": "Euphorbia tanaensis",
+      "common_name": "-",
+      "type": "Plant (Tree)",
+      "location": "Witu Forest Reserve, Kenya",
+      "population": {
+        "raw": "4 mature individuals",
+        "value": 4.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Illegal logging",
+        "agricultural expansion",
+        "infrastructure development"
+      ]
+    },
+    {
+      "species_name": "Abies beshanzuensis",
+      "common_name": "Baishan fir",
+      "type": "Plant (Tree)",
+      "location": "Baishanzu Mountain, Zhejiang, China",
+      "population": {
+        "raw": "5 mature individuals",
+        "value": 5.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Agriculture",
+        "fire"
+      ]
+    },
+    {
+      "species_name": "Elaeocarpus bojeri",
+      "common_name": "Bois Dentelle",
+      "type": "Plant (Tree)",
+      "location": "Grand Bassin, Mauritius",
+      "population": {
+        "raw": "< 10 individuals",
+        "value": 10.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Habitat degradation"
+      ]
+    },
+    {
+      "species_name": "Rosa arabica",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "St Katherine Mountains, Egypt",
+      "population": {
+        "raw": "10 sub-populations",
+        "value": 10.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Domestic animal grazing",
+        "climate change",
+        "drought",
+        "medicinal plant collecting",
+        "limited range"
+      ]
+    },
+    {
+      "species_name": "Dipterocarpus lamellatus",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "Siangau Forest Reserve, Sabah, Malaysia",
+      "population": {
+        "raw": "12 individuals",
+        "value": 12.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Logging of lowland forest",
+        "creation of industrial plantations"
+      ]
+    },
+    {
+      "species_name": "Phocoena sinus",
+      "common_name": "Vaquita",
+      "type": "Mammal",
+      "location": "Northern Gulf of California, Mexico",
+      "population": {
+        "raw": "12 individuals",
+        "value": 12.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Capture in fishermen's gillnets"
+      ]
+    },
+    {
+      "species_name": "Diospyros katendei",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "Kasyoha-Kitomi Forest Reserve, Uganda",
+      "population": {
+        "raw": "20 individuals in a single population",
+        "value": 20.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Agricultural activity",
+        "illegal tree felling",
+        "alluvial gold digging",
+        "small population"
+      ]
+    },
+    {
+      "species_name": "Nomascus hainanus",
+      "common_name": "Hainan black crested gibbon",
+      "type": "Mammal",
+      "location": "Hainan Island, China",
+      "population": {
+        "raw": "20 individuals",
+        "value": 20.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Hunting"
+      ]
+    },
+    {
+      "species_name": "Pinus squamata",
+      "common_name": "Qiaojia pine",
+      "type": "Plant (Tree)",
+      "location": "Qiaojia, Yunnan, China",
+      "population": {
+        "raw": "< 25 individuals",
+        "value": 25.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Limited distribution",
+        "small population size"
+      ]
+    },
+    {
+      "species_name": "Gigasiphon macrosiphon",
+      "common_name": "-",
+      "type": "Plant (Flower)",
+      "location": "Kaya Muhaka, Gongoni and Mrima Forest Reserves, Kenya; Amani Nature Reserve, West Kilombero Scarp Forest Reserve, Kihansi Gorge, Tanzania",
+      "population": {
+        "raw": "33 individuals",
+        "value": 33.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Timber extraction",
+        "agriculture",
+        "encroachment and development",
+        "predation by wild pigs"
+      ]
+    },
+    {
+      "species_name": "Cavia intermedia",
+      "common_name": "Santa Catarina's guinea pig",
+      "type": "Mammal",
+      "location": "Moleques do Sul Island, Santa Catarina, Brazil",
+      "population": {
+        "raw": "40–60 individuals",
+        "value": 40.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Habitat disturbance",
+        "possible hunting",
+        "small population"
+      ]
+    },
+    {
+      "species_name": "Ardeotis nigriceps",
+      "common_name": "Great Indian bustard",
+      "type": "Bird",
+      "location": "Rajasthan, Gujarat, Maharashtra, India",
+      "population": {
+        "raw": "50–249 mature individuals",
+        "value": 50.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Agricultural development",
+        "energy transmission lines"
+      ]
+    },
+    {
+      "species_name": "Erythrina schliebenii",
+      "common_name": "Coral tree",
+      "type": "Plant",
+      "location": "Namatimbili-Ngarama Forest, Tanzania",
+      "population": {
+        "raw": "< 50 individuals",
+        "value": 50.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Limited habitat",
+        "small population size increase vulnerability"
+      ]
+    },
+    {
+      "species_name": "Ficus katendei",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "Kasyoha-Kitomi Forest Reserve, Ishasha River, Uganda",
+      "population": {
+        "raw": "< 50 mature individuals",
+        "value": 50.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Agriculture",
+        "illegal tree felling",
+        "alluvial gold digging"
+      ]
+    },
+    {
+      "species_name": "Pomarea whitneyi",
+      "common_name": "Fatuhiva monarch",
+      "type": "Bird",
+      "location": "Fatu Hiva, Marquesas Islands, French Polynesia",
+      "population": {
+        "raw": "50 individuals",
+        "value": 50.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Predation by introduced species (Rattus rattus and feral cats)"
+      ]
+    },
+    {
+      "species_name": "Lithobates sevosus",
+      "common_name": "Dusky gopher frog",
+      "type": "Amphibian",
+      "location": "Harrison County, Mississippi, USA",
+      "population": {
+        "raw": "60–100 individuals",
+        "value": 60.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Fungal disease",
+        "climate change",
+        "land-use changes"
+      ]
+    },
+    {
+      "species_name": "Ardea insignis",
+      "common_name": "White bellied heron",
+      "type": "Bird",
+      "location": "Bhutan, North East India, Myanmar",
+      "population": {
+        "raw": "70–400 individuals",
+        "value": 70.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Hydropower development"
+      ]
+    },
+    {
+      "species_name": "Aythya innotata",
+      "common_name": "Madagascar pochard",
+      "type": "Bird",
+      "location": "Volcanic lakes north of Bealanana, Madagascar",
+      "population": {
+        "raw": "80 mature individuals",
+        "value": 80.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Agriculture",
+        "hunting",
+        "fishing",
+        "introduced fish"
+      ]
+    },
+    {
+      "species_name": "Heteromirafa sidamoensis",
+      "common_name": "Liben lark",
+      "type": "Bird",
+      "location": "Liben Plains, southern Ethiopia",
+      "population": {
+        "raw": "90–256 individuals",
+        "value": 90.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Agricultural expansion",
+        "overgrazing",
+        "fire suppression"
+      ]
+    },
+    {
+      "species_name": "Calumma tarzan",
+      "common_name": "Tarzan's chameleon",
+      "type": "Reptile",
+      "location": "Anosibe An'Ala region, eastern Madagascar",
+      "population": {
+        "raw": "< 100 individuals",
+        "value": 100.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Agriculture"
+      ]
+    },
+    {
+      "species_name": "Coleura seychellensis",
+      "common_name": "Seychelles sheath-tailed bat",
+      "type": "Mammal",
+      "location": "Two small caves on Silhouette and Mahé, Seychelles",
+      "population": {
+        "raw": "< 100 individuals",
+        "value": 100.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Habitat degradation",
+        "predation by invasive species"
+      ]
+    },
+    {
+      "species_name": "Dicerorhinus sumatrensis",
+      "common_name": "Sumatran rhino",
+      "type": "Mammal",
+      "location": "Sabah, Sarawak, Peninsular Malaysia, Kalimantan, Sumatra, Indonesia",
+      "population": {
+        "raw": "< 100 individuals",
+        "value": 100.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Hunting (horn is used in traditional medicine)"
+      ]
+    },
+    {
+      "species_name": "Diomedea amsterdamensis",
+      "common_name": "Amsterdam albatross",
+      "type": "Bird",
+      "location": "Breeds on Plateuau des Tourbières, Amsterdam Island, Indian Ocean",
+      "population": {
+        "raw": "100 mature individuals",
+        "value": 100.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Disease",
+        "incidental by-catch in long-line fishing"
+      ]
+    },
+    {
+      "species_name": "Eurynorhyncus pygmeus",
+      "common_name": "Spoon-billed sandpiper",
+      "type": "Bird",
+      "location": "Breeds in Russia, migrates along the East Asian-Australasian Flyway to wintering grounds in India, Bangladesh, Myanmar",
+      "population": {
+        "raw": "100 pairs",
+        "value": 100.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Trapping",
+        "land reclamation"
+      ]
+    },
+    {
+      "species_name": "Natalus primus",
+      "common_name": "Cuban greater funnel-eared bat",
+      "type": "Mammal",
+      "location": "Cueva La Barca, Isle of Pines, Cuba",
+      "population": {
+        "raw": "< 100 individuals",
+        "value": 100.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Habitat loss",
+        "human disturbance"
+      ]
+    },
+    {
+      "species_name": "Parides burchellanus",
+      "common_name": "-",
+      "type": "Insect (Butterfly)",
+      "location": "Cerrado, Brazil",
+      "population": {
+        "raw": "< 100 individuals",
+        "value": 100.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Human expansion",
+        "limited range"
+      ]
+    },
+    {
+      "species_name": "Propithecus candidus",
+      "common_name": "Silky sifaka",
+      "type": "Mammal",
+      "location": "Maroantsetra to Andapa basin, Marojeju Massif, Madagascar",
+      "population": {
+        "raw": "100–1,000 individuals",
+        "value": 100.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Hunting",
+        "habitat disturbance"
+      ]
+    },
+    {
+      "species_name": "Rhinoceros sondaicus",
+      "common_name": "Javan rhino",
+      "type": "Mammal",
+      "location": "Ujung Kulon National Park, Java, Indonesia",
+      "population": {
+        "raw": "< 100 individuals",
+        "value": 100.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Hunting for traditional medicine",
+        "small population size"
+      ]
+    },
+    {
+      "species_name": "Rhizanthella gardneri",
+      "common_name": "West Australian underground orchid",
+      "type": "Plant (Orchid)",
+      "location": "Western Australia, Australia",
+      "population": {
+        "raw": "< 100 individuals",
+        "value": 100.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Land clearance for agriculture",
+        "climate change",
+        "salinisation"
+      ]
+    },
+    {
+      "species_name": "Aproteles bulmerae",
+      "common_name": "Bulmer's fruit bat",
+      "type": "Mammal",
+      "location": "Luplupwintern Cave, Western Province, Papua NG",
+      "population": {
+        "raw": "150 individuals",
+        "value": 150.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Hunting",
+        "cave disturbance"
+      ]
+    },
+    {
+      "species_name": "Dioscorea strydomiana",
+      "common_name": "Wild yam",
+      "type": "Plant",
+      "location": "Oshoek area, Mpumalanga, South Africa",
+      "population": {
+        "raw": "200 individuals",
+        "value": 200.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Collection for medicinal use"
+      ]
+    },
+    {
+      "species_name": "Rhinopithecus avunculus",
+      "common_name": "Tonkin snub-nosed monkey",
+      "type": "Mammal",
+      "location": "Northeastern Vietnam",
+      "population": {
+        "raw": "< 200 individuals",
+        "value": 200.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Habitat loss",
+        "hunting"
+      ]
+    },
+    {
+      "species_name": "Margaritifera marocana",
+      "common_name": "-",
+      "type": "Mollusc",
+      "location": "Oued Denna, Oued Abid, Oued Beth, Morocco",
+      "population": {
+        "raw": "< 250 individuals",
+        "value": 250.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Pollution",
+        "development"
+      ]
+    },
+    {
+      "species_name": "Astrochelys yniphora",
+      "common_name": "Ploughshare tortoise",
+      "type": "Reptile",
+      "location": "Baly Bay region, northwestern Madagascar",
+      "population": {
+        "raw": "440–770 individuals",
+        "value": 440.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Illegal collection for international pet trade"
+      ]
+    },
+    {
+      "species_name": "Amanipodagrion gilliesi",
+      "common_name": "Amani flatwing",
+      "type": "Insect",
+      "location": "Amani-Sigi Forest, Usambara Mountains, Tanzania",
+      "population": {
+        "raw": "< 500 individuals",
+        "value": 500.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Population pressure",
+        "water pollution"
+      ]
+    },
+    {
+      "species_name": "Bradypus pygmaeus",
+      "common_name": "Pygmy three-toed sloth",
+      "type": "Mammal",
+      "location": "Isla Escudo de Veraguas, Panama",
+      "population": {
+        "raw": "< 500 individuals",
+        "value": 500.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Illegal logging of mangrove forests for firewood and construction",
+        "hunting"
+      ]
+    },
+    {
+      "species_name": "Eriosyce chilensis",
+      "common_name": "Chilenito (cactus)",
+      "type": "Plant",
+      "location": "Pta Molles and Pichidungui, Chile",
+      "population": {
+        "raw": "< 500 individuals",
+        "value": 500.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Collection of flowering plants"
+      ]
+    },
+    {
+      "species_name": "Moominia willii",
+      "common_name": "-",
+      "type": "Mollusc (Snail)",
+      "location": "Silhouette Island, Seychelles",
+      "population": {
+        "raw": "< 500 individuals",
+        "value": 500.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Invasive species",
+        "climate change"
+      ]
+    },
+    {
+      "species_name": "Antilophia bokermanni",
+      "common_name": "Araripe manakin",
+      "type": "Bird",
+      "location": "Chapado do Araripe, South Ceará, Brazil",
+      "population": {
+        "raw": "779 individuals",
+        "value": 779.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Recreational facilities",
+        "water diversion"
+      ]
+    },
+    {
+      "species_name": "Beatragus hunteri",
+      "common_name": "Hirola",
+      "type": "Mammal",
+      "location": "South-east Kenya, possibly south-west Somalia",
+      "population": {
+        "raw": "< 1,000 individuals",
+        "value": 1000.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Habitat loss",
+        "competition with livestock",
+        "poaching"
+      ]
+    },
+    {
+      "species_name": "Brachyteles hypoxanthus",
+      "common_name": "Northern muriqui",
+      "type": "Mammal",
+      "location": "Atlantic forest, south-eastern Brazil",
+      "population": {
+        "raw": "< 1,000 individuals",
+        "value": 1000.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Large-scale deforestation and logging"
+      ]
+    },
+    {
+      "species_name": "Lathyrus belinensis",
+      "common_name": "Belin vetchling",
+      "type": "Plant",
+      "location": "Outskirts of Belin village, Antalya, Turkey",
+      "population": {
+        "raw": "< 1,000 individuals",
+        "value": 1000.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Urbanisation",
+        "over-grazing",
+        "conifer planting",
+        "road widening"
+      ]
+    },
+    {
+      "species_name": "Neurergus kaiseri",
+      "common_name": "Luristan newt",
+      "type": "Amphibian",
+      "location": "Zagros Mountains, Lorestan, Iran",
+      "population": {
+        "raw": "< 1,000 individuals",
+        "value": 1000.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Illegal collection for pet trade"
+      ]
+    },
+    {
+      "species_name": "Geronticus eremita",
+      "common_name": "Northern bald ibis",
+      "type": "Bird",
+      "location": "Breeds in Morocco, Turkey, Syria; winters in central Ethiopia",
+      "population": {
+        "raw": "About 3000 individuals",
+        "value": 3000.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Habitat degradation and destruction",
+        "hunting"
+      ]
+    },
+    {
+      "species_name": "Actinote zikani",
+      "common_name": "-",
+      "type": "Insect",
+      "location": "Near São Paulo, Atlantic forest, Brazil",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Habitat loss from human expansion"
+      ]
+    },
+    {
+      "species_name": "Aipysurus foliosquama",
+      "common_name": "Leaf scaled sea-snake",
+      "type": "Reptile",
+      "location": "Ashmore Reef and Hibernia Reef, Timor Sea",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Unknown—probably degradation of coral reef habitat"
+      ]
+    },
+    {
+      "species_name": "Antisolabis seychellensis",
+      "common_name": "-",
+      "type": "Insect",
+      "location": "Morne Blanc, Mahé island, Seychelles",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Invasive species",
+        "climate change"
+      ]
+    },
+    {
+      "species_name": "Aphanius transgrediens",
+      "common_name": "Aci Gö toothcarp",
+      "type": "Fish",
+      "location": "South-eastern shore of former Lake Aci, Turkey",
+      "population": {
+        "raw": "Few hundred pairs",
+        "value": null,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Competition",
+        "predation by Gambusia",
+        "road construction"
+      ]
+    },
+    {
+      "species_name": "Atelopus balios",
+      "common_name": "Rio Pescado stubfoot toad",
+      "type": "Amphibian",
+      "location": "Azuay, Cañar, Guyas provinces, Ecuador",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Chytridiomycosis",
+        "logging",
+        "agricultural expansion"
+      ]
+    },
+    {
+      "species_name": "Azurina eupalama",
+      "common_name": "Galapagos damsel fish",
+      "type": "Fish",
+      "location": "Unknown",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Climate change",
+        "oceanographic changes related to the 1982/1983 El Nino"
+      ]
+    },
+    {
+      "species_name": "Bahaba taipingensis",
+      "common_name": "Giant yellow croaker",
+      "type": "Fish",
+      "location": "Chinese coast from Yangtze River, China to Hong Kong",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Over-fishing due to value of swim-bladder in traditional medicine"
+      ]
+    },
+    {
+      "species_name": "Batagur baska",
+      "common_name": "Common batagur",
+      "type": "Reptile",
+      "location": "Bangladesh, Cambodia, India, Indonesia, Malaysia",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Illegal export to China"
+      ]
+    },
+    {
+      "species_name": "Bombus franklini",
+      "common_name": "Franklin's bumblebee",
+      "type": "Insect",
+      "location": "Oregon and California",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Disease from commercial bees",
+        "habitat destruction and degradation"
+      ]
+    },
+    {
+      "species_name": "Callitriche pulchra",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "Pool on Gavdos, Greece",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Habitat exploitation by livestock",
+        "modification of the pool by locals"
+      ]
+    },
+    {
+      "species_name": "Cercopithecus roloway",
+      "common_name": "Roloway guenon",
+      "type": "Mammal",
+      "location": "Côte d'Ivoire",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Hunting",
+        "habitat loss"
+      ]
+    },
+    {
+      "species_name": "Cryptomyces maximus",
+      "common_name": "Willow blister",
+      "type": "Fungi",
+      "location": "Pembrokeshire, United Kingdom",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Limited habitat"
+      ]
+    },
+    {
+      "species_name": "Cryptotis nelsoni",
+      "common_name": "Nelson's small-eared shrew",
+      "type": "Mammal",
+      "location": "Volcán San Martín Tuxtla, Veracruz, Mexico",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Logging",
+        "cattle grazing",
+        "fire",
+        "agriculture"
+      ]
+    },
+    {
+      "species_name": "Cyclura collei",
+      "common_name": "Jamaican iguana",
+      "type": "Reptile",
+      "location": "Hellshire Hills, Jamaica",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Habitat destruction",
+        "predation by introduced species"
+      ]
+    },
+    {
+      "species_name": "Daubentonia madagascariensis",
+      "common_name": "Aye-aye",
+      "type": "Mammal",
+      "location": "Deciduous forest, East Madagascar",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Poaching",
+        "limited habitat"
+      ]
+    },
+    {
+      "species_name": "Dendrophylax fawcettii",
+      "common_name": "Cayman Islands ghost orchid",
+      "type": "Plant",
+      "location": "Ironwood Forest, George Town, Grand Cayman",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Infrastructure development"
+      ]
+    },
+    {
+      "species_name": "Discoglossus nigriventer",
+      "common_name": "Hula painted frog",
+      "type": "Amphibian",
+      "location": "Hula Valley, Israel",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Predation by birds",
+        "range restriction due to habitat destruction"
+      ]
+    },
+    {
+      "species_name": "Dombeya mauritiana",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "Mauritius",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Encroachment by invasive plant species",
+        "habitat loss due to cannabis cultivation"
+      ]
+    },
+    {
+      "species_name": "Eleutherodactylus glandulifer",
+      "common_name": "La Hotte glanded frog",
+      "type": "Amphibian",
+      "location": "Massif de la Hotte, Haiti",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Charcoal production",
+        "slash-and-burn agriculture"
+      ]
+    },
+    {
+      "species_name": "Eleutherodactylus thorectes",
+      "common_name": "Macaya breast-spot frog",
+      "type": "Amphibian",
+      "location": "Formon and Macaya peaks, Masif de la Hotte, Haiti",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Charcoal production",
+        "slash-and-burn agriculture"
+      ]
+    },
+    {
+      "species_name": "Gocea ohridana",
+      "common_name": "-",
+      "type": "Mollusc",
+      "location": "Lake Ohrid, Macedonia",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Increasing pollution levels",
+        "off-take of water",
+        "sedimentation events"
+      ]
+    },
+    {
+      "species_name": "Heleophryne rosei",
+      "common_name": "Table mountain ghost frog",
+      "type": "Amphibian",
+      "location": "Table Mountain, Western Cape Province, South Africa",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Invasive plants",
+        "water abstraction"
+      ]
+    },
+    {
+      "species_name": "Hemicycla paeteliana",
+      "common_name": "-",
+      "type": "Mollusc (Land snail)",
+      "location": "Jandia peninsula, Fuerteventura, Canary Islands",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Overgrazing",
+        "trampling by goats and tourists"
+      ]
+    },
+    {
+      "species_name": "Hibiscadelphus woodii",
+      "common_name": "-",
+      "type": "Plant (Tree)",
+      "location": "Kalalau Valley, Hawaii",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Habitat degradation due to feral ungulates",
+        "competition with invasive plant species"
+      ]
+    },
+    {
+      "species_name": "Hucho perryi",
+      "common_name": "Sakhalin taimen",
+      "type": "Fish",
+      "location": "Russian and Japanese rivers, Pacific Ocean between Russia and Japan",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Overfishing",
+        "damming",
+        "agriculture",
+        "other land use"
+      ]
+    },
+    {
+      "species_name": "Johora singaporensis",
+      "common_name": "Freshwater crab",
+      "type": "Crustacean",
+      "location": "Bukit Timah Nature Reserve and streamlet near Bukit Batok, Singapore",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Habitat degradation due to reduction in water quality and quantity"
+      ]
+    },
+    {
+      "species_name": "Leiopelma archeyi",
+      "common_name": "Archey's frog",
+      "type": "Amphibian",
+      "location": "Coromandel peninsula and Whareorino Forest, New Zealand",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Chytridiomycosis",
+        "predation by invasive species"
+      ]
+    },
+    {
+      "species_name": "Lophura edwardsi",
+      "common_name": "Edwards's pheasant",
+      "type": "Bird",
+      "location": "Quang Binh, Quang Tri, Thua Thien-Hue, Vietnam",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Habitat loss",
+        "hunting"
+      ]
+    },
+    {
+      "species_name": "Nepenthes attenboroughii",
+      "common_name": "Attenborough's pitcher plant",
+      "type": "Plant",
+      "location": "Mount Victoria, Palawan, Philippines",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Poaching"
+      ]
+    },
+    {
+      "species_name": "Oreocnemis phoenix",
+      "common_name": "Mulanje red damsel",
+      "type": "Insect (Damselfly)",
+      "location": "Mulanje Plateau, Malawi",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Habitat destruction and degradation due to drainage",
+        "agricultural expansion",
+        "exploitation of forest"
+      ]
+    },
+    {
+      "species_name": "Pangasius sanitwongsei",
+      "common_name": "Pangasid catfish",
+      "type": "Fish",
+      "location": "Chao Phraya and Mekong basins in Cambodia, China, Lao PDR, Thailand, Vietnam",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Overfishing",
+        "collection for aquarium trade"
+      ]
+    },
+    {
+      "species_name": "Picea neoveitchii",
+      "common_name": "-",
+      "type": "Plant (Tree)",
+      "location": "Qinling Range, China",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Destruction of forest"
+      ]
+    },
+    {
+      "species_name": "Poecilotheria metallica",
+      "common_name": "Gooty tarantula",
+      "type": "Spider",
+      "location": "Nandyal and Giddalur, Andhra Pradesh, India",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Deforestation",
+        "firewood collection",
+        "civil unrest"
+      ]
+    },
+    {
+      "species_name": "Pristis pristis",
+      "common_name": "Common sawfish",
+      "type": "Fish",
+      "location": "Coastal tropical and subtropical waters of Indo-Pacific and Atlantic Oceans",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Exploitation has removed the species from 95% of its historical range"
+      ]
+    },
+    {
+      "species_name": "Psammobates geometricus",
+      "common_name": "Geometric tortoise",
+      "type": "Reptile",
+      "location": "Western Cape Province, South Africa",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Loss of habitat",
+        "destruction",
+        "predation"
+      ]
+    },
+    {
+      "species_name": "Pseudoryx nghetinhensis",
+      "common_name": "Saola",
+      "type": "Mammal",
+      "location": "Annamite mountains, Viet Nam - Laos PDR border",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Habitat destruction",
+        "hunting"
+      ]
+    },
+    {
+      "species_name": "Psiadia cataractae",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "Mauritius",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Development project",
+        "competition from invasive plant species"
+      ]
+    },
+    {
+      "species_name": "Psorodonotus ebneri",
+      "common_name": "Beydaglari bush-cricket",
+      "type": "Insect",
+      "location": "Beydaglari range, Antalaya, Turkey",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Climate change",
+        "habitat loss"
+      ]
+    },
+    {
+      "species_name": "Rhynchocyon spp.",
+      "common_name": "Boni giant sengi",
+      "type": "Mammal",
+      "location": "Boni-Dodori Forest, Lamu area, Kenya",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Development causing habitat loss"
+      ]
+    },
+    {
+      "species_name": "Risiocnemis seidenschwarzi",
+      "common_name": "Cebu frill-wing",
+      "type": "Insect (Damselfly)",
+      "location": "Rivulet beside the Kawasan River, Cebu, Philippines",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Habitat degradation and destruction"
+      ]
+    },
+    {
+      "species_name": "Salanoia durrelli",
+      "common_name": "Durrell's vontsira",
+      "type": "Mammal",
+      "location": "Marshes of Lake Alaotra, Madagascar",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Loss of habitat"
+      ]
+    },
+    {
+      "species_name": "Santamartamys rufodorsalis",
+      "common_name": "Red crested tree rat",
+      "type": "Mammal",
+      "location": "Sierra Nevada de Santa Marta, Colombia",
+      "population": {
+        "raw": "Unknown",
+        "value": null,
+        "qualifier": "unknown"
+      },
+      "threats": [
+        "Urban development",
+        "coffee cultivation"
+      ]
+    }
+  ],
+  "lowest_population": [
+    {
+      "species_name": "Bazzania bhutanica",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "Budini and Lafeti Khola, Bhutan",
+      "population": {
+        "raw": "2 sub-populations",
+        "value": 2.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Forest clearance",
+        "overgrazing",
+        "development"
+      ]
+    },
+    {
+      "species_name": "Scaturiginichthys vermeilipinnis",
+      "common_name": "Red-finned blue-eye",
+      "type": "Fish",
+      "location": "Edgbaston Station, central western Queensland, Australia",
+      "population": {
+        "raw": "2",
+        "value": 2.0,
+        "qualifier": "exact"
+      },
+      "threats": []
+    },
+    {
+      "species_name": "Magnolia wolfii",
+      "common_name": "-",
+      "type": "Plant (Tree)",
+      "location": "Risaralda, Colombia",
+      "population": {
+        "raw": "3 individuals",
+        "value": 3.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Isolation of species",
+        "low regeneration rates"
+      ]
+    },
+    {
+      "species_name": "Rafetus swinhoei",
+      "common_name": "Red River giant softshell turtle",
+      "type": "Reptile",
+      "location": "Hoan Kiem Lake, Dong Mo Lake, Viet Nam, Suzhou Zoo, China",
+      "population": {
+        "raw": "3 individuals",
+        "value": 3.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Hunting for consumption",
+        "wetland destruction",
+        "pollution"
+      ]
+    },
+    {
+      "species_name": "Euphorbia tanaensis",
+      "common_name": "-",
+      "type": "Plant (Tree)",
+      "location": "Witu Forest Reserve, Kenya",
+      "population": {
+        "raw": "4 mature individuals",
+        "value": 4.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Illegal logging",
+        "agricultural expansion",
+        "infrastructure development"
+      ]
+    },
+    {
+      "species_name": "Abies beshanzuensis",
+      "common_name": "Baishan fir",
+      "type": "Plant (Tree)",
+      "location": "Baishanzu Mountain, Zhejiang, China",
+      "population": {
+        "raw": "5 mature individuals",
+        "value": 5.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Agriculture",
+        "fire"
+      ]
+    },
+    {
+      "species_name": "Elaeocarpus bojeri",
+      "common_name": "Bois Dentelle",
+      "type": "Plant (Tree)",
+      "location": "Grand Bassin, Mauritius",
+      "population": {
+        "raw": "< 10 individuals",
+        "value": 10.0,
+        "qualifier": "less_than"
+      },
+      "threats": [
+        "Habitat degradation"
+      ]
+    },
+    {
+      "species_name": "Rosa arabica",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "St Katherine Mountains, Egypt",
+      "population": {
+        "raw": "10 sub-populations",
+        "value": 10.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Domestic animal grazing",
+        "climate change",
+        "drought",
+        "medicinal plant collecting",
+        "limited range"
+      ]
+    },
+    {
+      "species_name": "Dipterocarpus lamellatus",
+      "common_name": "-",
+      "type": "Plant",
+      "location": "Siangau Forest Reserve, Sabah, Malaysia",
+      "population": {
+        "raw": "12 individuals",
+        "value": 12.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Logging of lowland forest",
+        "creation of industrial plantations"
+      ]
+    },
+    {
+      "species_name": "Phocoena sinus",
+      "common_name": "Vaquita",
+      "type": "Mammal",
+      "location": "Northern Gulf of California, Mexico",
+      "population": {
+        "raw": "12 individuals",
+        "value": 12.0,
+        "qualifier": "exact"
+      },
+      "threats": [
+        "Capture in fishermen's gillnets"
+      ]
+    }
+  ],
+  "threat_counts": [
+    {
+      "threat": "hunting",
+      "count": 6
+    },
+    {
+      "threat": "climate change",
+      "count": 5
+    },
+    {
+      "threat": "Agriculture",
+      "count": 4
+    },
+    {
+      "threat": "Hunting",
+      "count": 4
+    },
+    {
+      "threat": "Habitat loss",
+      "count": 4
+    },
+    {
+      "threat": "agricultural expansion",
+      "count": 3
+    },
+    {
+      "threat": "agriculture",
+      "count": 3
+    },
+    {
+      "threat": "fire",
+      "count": 2
+    },
+    {
+      "threat": "Invasive species",
+      "count": 2
+    },
+    {
+      "threat": "Chytridiomycosis",
+      "count": 2
+    },
+    {
+      "threat": "Climate change",
+      "count": 2
+    },
+    {
+      "threat": "overgrazing",
+      "count": 2
+    },
+    {
+      "threat": "development",
+      "count": 2
+    },
+    {
+      "threat": "small population",
+      "count": 2
+    },
+    {
+      "threat": "habitat loss",
+      "count": 2
+    }
+  ],
+  "type_counts": [
+    {
+      "type": "Mammal",
+      "count": 20
+    },
+    {
+      "type": "Plant",
+      "count": 14
+    },
+    {
+      "type": "Bird",
+      "count": 10
+    },
+    {
+      "type": "Amphibian",
+      "count": 8
+    },
+    {
+      "type": "Plant (Tree)",
+      "count": 7
+    },
+    {
+      "type": "Reptile",
+      "count": 7
+    },
+    {
+      "type": "Fish",
+      "count": 7
+    },
+    {
+      "type": "Insect",
+      "count": 5
+    },
+    {
+      "type": "Mollusc",
+      "count": 2
+    },
+    {
+      "type": "Insect (Damselfly)",
+      "count": 2
+    },
+    {
+      "type": "Fungi",
+      "count": 1
+    },
+    {
+      "type": "Plant (Flower)",
+      "count": 1
+    },
+    {
+      "type": "Mollusc (Land snail)",
+      "count": 1
+    },
+    {
+      "type": "Crustacean",
+      "count": 1
+    },
+    {
+      "type": "Mollusc (Snail)",
+      "count": 1
+    },
+    {
+      "type": "Insect (Butterfly)",
+      "count": 1
+    },
+    {
+      "type": "Spider",
+      "count": 1
+    },
+    {
+      "type": "Plant (Orchid)",
+      "count": 1
+    }
+  ],
+  "total": 90,
+  "unknown_population_count": 41
+}

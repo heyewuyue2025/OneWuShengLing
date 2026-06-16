@@ -1,0 +1,3009 @@
+{
+  "health_distribution": [
+    {
+      "species": "Adelie",
+      "health": "healthy",
+      "count": 698,
+      "pct": 44.7
+    },
+    {
+      "species": "Adelie",
+      "health": "overweight",
+      "count": 515,
+      "pct": 33.0
+    },
+    {
+      "species": "Adelie",
+      "health": "underweight",
+      "count": 347,
+      "pct": 22.2
+    },
+    {
+      "species": "Chinstrap",
+      "health": "healthy",
+      "count": 328,
+      "pct": 52.6
+    },
+    {
+      "species": "Chinstrap",
+      "health": "overweight",
+      "count": 142,
+      "pct": 22.8
+    },
+    {
+      "species": "Chinstrap",
+      "health": "underweight",
+      "count": 153,
+      "pct": 24.6
+    },
+    {
+      "species": "Gentoo",
+      "health": "healthy",
+      "count": 524,
+      "pct": 42.0
+    },
+    {
+      "species": "Gentoo",
+      "health": "overweight",
+      "count": 510,
+      "pct": 40.9
+    },
+    {
+      "species": "Gentoo",
+      "health": "underweight",
+      "count": 213,
+      "pct": 17.1
+    }
+  ],
+  "mass_by_diet": [
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "mean_mass": 5635.0,
+      "median_mass": 5620.0,
+      "count": 384
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "mean_mass": 4392.0,
+      "median_mass": 4342.0,
+      "count": 673
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "mean_mass": 3308.0,
+      "median_mass": 3273.0,
+      "count": 418
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "mean_mass": 5090.0,
+      "median_mass": 5048.0,
+      "count": 85
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "mean_mass": 6028.0,
+      "median_mass": 5901.0,
+      "count": 97
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "mean_mass": 4587.0,
+      "median_mass": 4504.0,
+      "count": 340
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "mean_mass": 3486.0,
+      "median_mass": 3518.0,
+      "count": 150
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "squid",
+      "mean_mass": 5558.0,
+      "median_mass": 5458.0,
+      "count": 36
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "mean_mass": 6636.0,
+      "median_mass": 6506.0,
+      "count": 477
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "mean_mass": 5053.0,
+      "median_mass": 4908.0,
+      "count": 406
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "mean_mass": 3873.0,
+      "median_mass": 3880.0,
+      "count": 292
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "mean_mass": 6009.0,
+      "median_mass": 5896.0,
+      "count": 72
+    }
+  ],
+  "island_health": [
+    {
+      "island": "Biscoe",
+      "health_metrics": "healthy",
+      "count": 733
+    },
+    {
+      "island": "Biscoe",
+      "health_metrics": "overweight",
+      "count": 723
+    },
+    {
+      "island": "Biscoe",
+      "health_metrics": "underweight",
+      "count": 329
+    },
+    {
+      "island": "Dream",
+      "health_metrics": "healthy",
+      "count": 590
+    },
+    {
+      "island": "Dream",
+      "health_metrics": "overweight",
+      "count": 255
+    },
+    {
+      "island": "Dream",
+      "health_metrics": "underweight",
+      "count": 288
+    },
+    {
+      "island": "Torgensen",
+      "health_metrics": "healthy",
+      "count": 227
+    },
+    {
+      "island": "Torgensen",
+      "health_metrics": "overweight",
+      "count": 189
+    },
+    {
+      "island": "Torgensen",
+      "health_metrics": "underweight",
+      "count": 96
+    }
+  ],
+  "mass_points": [
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3966.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4110.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4858.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3068.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5661.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5047.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4734.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6537.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3012.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 8205.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4528.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4491.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 2696.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6816.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 6440.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5268.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3220.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4625.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 8696.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3817.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4176.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 5178.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 4043.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 7573.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3010.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3926.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6538.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3370.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4366.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2900.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3372.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 6652.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 6068.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4857.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3761.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3717.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5424.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3323.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4955.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6748.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6802.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3126.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 2787.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3790.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7121.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 4999.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7369.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4058.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4955.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4806.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5163.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 4266.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 6072.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2927.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4684.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3724.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3696.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5805.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3045.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "overweight",
+      "body_mass_g": 6216.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3977.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5004.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2901.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3479.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2856.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3642.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4835.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3946.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5221.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7121.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7041.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7865.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3967.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5207.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7017.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5246.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4133.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4068.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3473.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2963.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7597.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4681.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5429.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5824.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3980.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4884.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3167.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3930.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4981.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4897.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3801.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4540.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5480.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4941.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3853.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3631.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3586.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3420.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5677.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5592.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "health_metrics": "overweight",
+      "body_mass_g": 5079.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2880.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6711.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6712.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3918.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 6005.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2822.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5852.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 5933.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4866.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3893.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3343.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3589.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3694.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3720.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2989.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "health_metrics": "overweight",
+      "body_mass_g": 5331.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 6286.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 5779.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3564.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 7081.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 4249.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 4336.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3732.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7994.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5359.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5954.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7333.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3803.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2850.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3517.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 2756.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5254.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3206.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4124.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4385.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4711.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5966.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 4073.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4965.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3905.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3900.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4858.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 5445.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5275.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 2937.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4119.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2857.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4449.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3007.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 6246.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5819.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5546.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 6874.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5683.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3960.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 6532.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3902.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5187.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 4866.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3562.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3519.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4323.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5419.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 4644.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 5846.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4634.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 4679.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 4394.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5843.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 6349.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4539.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4192.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4343.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3468.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3455.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3524.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 4076.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5739.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "health_metrics": "overweight",
+      "body_mass_g": 6588.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4487.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4195.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3677.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6138.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3063.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6248.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3531.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4102.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5543.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4074.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5247.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3790.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 4648.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3655.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4267.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3724.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4995.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4252.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5926.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 4452.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3790.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4362.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5542.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4072.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "overweight",
+      "body_mass_g": 4603.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5920.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4364.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6328.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3778.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7212.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3918.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 5640.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3361.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5029.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2995.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7234.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5260.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4123.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4849.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3213.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2995.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3719.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4390.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3054.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4541.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5416.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4168.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3266.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5614.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3452.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4479.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4142.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3140.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 6381.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4121.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3088.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4300.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4778.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 5692.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 6254.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5631.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3411.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4550.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7231.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3598.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6882.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4379.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5352.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3039.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 2874.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4499.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3581.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4269.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4810.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5476.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5987.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4842.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3010.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3744.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4058.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4856.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4331.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6323.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3122.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4221.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3796.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6818.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 5656.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4036.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3160.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7684.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4394.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2962.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3280.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6867.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 4864.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 7316.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5065.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6216.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4223.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4480.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3557.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3423.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6234.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6771.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7492.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 4664.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5285.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6271.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 8128.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3493.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5251.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5849.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6603.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4795.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3347.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7152.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3568.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3766.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4021.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6333.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6755.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 2642.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "health_metrics": "underweight",
+      "body_mass_g": 4091.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3487.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4250.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4128.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3899.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4197.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 4481.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3661.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4366.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3581.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4323.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3581.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4473.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 5913.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6059.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 6491.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3672.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3022.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3745.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3661.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6651.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4910.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3838.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3933.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4476.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4501.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3942.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4841.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4435.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 4994.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5353.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6323.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5962.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3034.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3525.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6059.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "underweight",
+      "body_mass_g": 3530.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4210.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7061.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3635.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 4552.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4955.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4849.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 5682.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4153.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4513.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4832.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4716.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7805.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7598.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3990.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 4367.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 3911.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6112.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5728.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4551.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4059.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "overweight",
+      "body_mass_g": 5106.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 8026.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4999.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7619.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5835.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5682.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5275.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2840.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4770.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3060.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "squid",
+      "health_metrics": "overweight",
+      "body_mass_g": 5304.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 5806.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3973.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 2994.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4530.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "parental",
+      "health_metrics": "overweight",
+      "body_mass_g": 3902.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4494.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 4065.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4677.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 4791.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4687.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 4295.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6217.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5121.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Adelie",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 3915.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "squid",
+      "health_metrics": "healthy",
+      "body_mass_g": 5088.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "parental",
+      "health_metrics": "healthy",
+      "body_mass_g": 3859.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 6007.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "healthy",
+      "body_mass_g": 4372.0,
+      "island": "Torgensen"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 6112.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5275.0,
+      "island": "Dream"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5042.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 4597.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7523.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 7147.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Adelie",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5740.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 6770.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "healthy",
+      "body_mass_g": 5461.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Gentoo",
+      "diet": "krill",
+      "health_metrics": "underweight",
+      "body_mass_g": 5167.0,
+      "island": "Biscoe"
+    },
+    {
+      "species": "Chinstrap",
+      "diet": "fish",
+      "health_metrics": "overweight",
+      "body_mass_g": 5462.0,
+      "island": "Dream"
+    }
+  ],
+  "overweight_rate": [
+    {
+      "species": "Adelie",
+      "overweight_pct": 33.0
+    },
+    {
+      "species": "Chinstrap",
+      "overweight_pct": 22.8
+    },
+    {
+      "species": "Gentoo",
+      "overweight_pct": 40.9
+    }
+  ],
+  "total": 3430,
+  "year": 2021
+}

@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>One物生灵 · 从1970到今天，一部正在归零的种群档案</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Noto+Sans+SC:wght@300;400;500;700&family=Noto+Serif+SC:wght@500;600;700&family=Outfit:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css?v=37">
+</head>
+<body>
+  <div class="mesh-bg" aria-hidden="true"></div>
+  <div class="grain" aria-hidden="true"></div>
+
+  <nav class="top-nav">
+    <span class="nav-brand"><span class="nav-one">One</span><span class="nav-han">物生灵</span></span>
+    <span class="nav-progress"><span id="progress-fill"></span></span>
+    <div class="nav-end">
+      <span class="nav-act">ACT <b id="nav-act-num">01</b>/05</span>
+      <p class="nav-entry"><span class="entry-aigc">AIGC</span>叙事可视化设计松参赛作品</p>
+    </div>
+  </nav>
+
+  <header class="hero" id="top">
+    <div class="hero-whispers" aria-hidden="true">
+      <span class="whisper" lang="zh">天地与我并生，而万物与我为一</span>
+      <span class="whisper" lang="en">In wildness is the preservation of the world.</span>
+      <span class="whisper" lang="fr">Tu deviens responsable pour toujours de ce que tu as apprivoisé.</span>
+      <span class="whisper" lang="es">Cada especie es un universo que se defiende solo.</span>
+      <span class="whisper" lang="ja">いのちは、ひとつひとつが尊い</span>
+      <span class="whisper" lang="en">We do not inherit the earth from our ancestors.</span>
+      <span class="whisper" lang="de">Die Letzten ihrer Art — the last of their kind.</span>
+      <span class="whisper" lang="zh">万物静观皆自得，四时佳兴与人同</span>
+      <span class="whisper" lang="sw">Mnyama ni muhimu kama mwanadamu</span>
+      <span class="whisper" lang="la">Omnia vivunt, omnia inter se conexa</span>
+      <span class="whisper" lang="it">Ogni creatura è un capolavoro irripetibile.</span>
+      <span class="whisper" lang="zh">人法地，地法天，天法道，道法自然</span>
+      <span class="whisper" lang="pt">A Terra nos empresta a vida — não nos a dá.</span>
+      <span class="whisper" lang="ko">생명은 하나하나가 소중하다</span>
+      <span class="whisper" lang="en">The silence of a disappearing species is deafening.</span>
+      <span class="whisper" lang="ru">Природа не прощает равнодушия.</span>
+      <span class="whisper" lang="ar">كلُّ حياةٍ لها قيمة</span>
+      <span class="whisper" lang="zh">天地之大德曰生</span>
+    </div>
+    <div class="hero-visual">
+      <img src="img/hero-bg.jpg" alt="" class="hero-img" onerror="this.style.display='none'">
+      <div class="hero-overlay"></div>
+    </div>
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="en">WWF Living Planet Index</span> · 1970–2020 · 动物数据</p>
+        <h1 class="title-pun">
+          <span class="title-display" aria-label="One物生灵">
+            <span class="title-one">One</span>
+            <span class="title-han"><span class="title-han-char">物</span><span class="title-han-char">生</span><span class="title-han-char">灵</span></span>
+          </span>
+          <span class="en-sub">From <span class="sub-wan">万</span> to <span class="sub-one">One</span></span>
+        </h1>
+        <p class="hero-dek" id="hero-subtitle">从1970到今天，一部正在归零的种群档案</p>
+        <p class="lede">「万物」曾是这个星球的默认状态；当监测指数跌至 <em>13</em>，有些名字只剩下 <em>2</em>——<span class="en-one">One</span>物，不是修辞，是数据。</p>
+        <a class="scroll-cta" href="#scrolly"><span>Enter Story</span><span>进入叙事</span> ↓</a>
+      </div>
+      <div class="hero-side">
+        <div class="hero-dossier">
+          <div class="dossier-head">
+            <p class="dossier-kicker"><span class="en">Field Note</span><span class="sep">·</span><span class="zh">2020 监测读数</span></p>
+            <div class="dossier-hero-stat">
+              <span class="dossier-num" id="hero-lpi">—</span>
+              <div class="dossier-meta">
+                <span class="dossier-delta" id="hero-lpi-delta">—</span>
+                <span class="dossier-unit en">Living Planet Index</span>
+                <span class="dossier-unit zh">全球种群指数（基准 100）</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="dossier-rule" aria-hidden="true"></div>
+
+          <ul class="dossier-stats" id="hero-metrics">
+            <li class="dossier-stat stat-down">
+              <span class="ds-val" id="hero-decrease">—</span>
+              <span class="ds-label"><em>Decreasing</em><span>种群下降</span></span>
+            </li>
+            <li class="dossier-stat stat-up">
+              <span class="ds-val" id="hero-increase">—</span>
+              <span class="ds-label"><em>Increasing</em><span>种群上升</span></span>
+            </li>
+            <li class="dossier-stat stat-rare">
+              <span class="ds-val" id="hero-species">—</span>
+              <span class="ds-label"><em>Critically Rare</em><span>极危物种</span></span>
+            </li>
+          </ul>
+
+          <blockquote class="dossier-quote">
+            <p class="quote-text">五十年，指数从 100 走到 13；有些名字，只剩 2。</p>
+            <cite class="quote-cite"><span class="en">One species, one number, one planet</span></cite>
+          </blockquote>
+
+          <p class="hero-source">数据来源：WWF Living Planet Index · IUCN 红色名录 · Palmer 企鹅监测</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="scrolly">
+    <div class="scrolly-wrap">
+      <aside class="graphic-pane">
+        <div class="graphic-frame paper-panel">
+          <div class="panel-toolbar">
+            <span class="toolbar-hint" id="toolbar-hint">悬停图表 · 探索数据</span>
+          </div>
+
+          <div class="chart-panel is-active" data-chart="global">
+            <div class="act-visual"><img src="img/hero-bg.jpg" alt="" onerror="this.parentElement.classList.add('no-img')"></div>
+            <div class="panel-head">
+              <h3><span class="zh">从100跌到13，万物沉入长寒</span><span class="en">Fifty Years of Falling</span></h3>
+              <p>Living Planet Index · 1970–2020 · 基准值 100</p>
+            </div>
+            <div class="chart-box">
+              <div class="chart-hud" id="hud-global">移动鼠标探索年份</div>
+              <svg id="chart-global"></svg>
+            </div>
+            <p class="panel-caption" id="caption-global"></p>
+          </div>
+
+          <div class="chart-panel" data-chart="regions">
+            <div class="act-visual"><img src="img/act2-regions.jpg" alt="" onerror="this.parentElement.classList.add('no-img')"></div>
+            <div class="panel-head">
+              <h3><span class="zh">大洋洲退到11，裂痕延向远岸</span><span class="en">Where Oceania Went</span></h3>
+              <p>1970→2020 · 区域坡度图 · 点击线条高亮</p>
+            </div>
+            <div class="chart-box"><svg id="chart-regions"></svg></div>
+            <p class="panel-caption" id="caption-regions"></p>
+          </div>
+
+          <div class="chart-panel" data-chart="threats">
+            <div class="act-visual"><img src="img/act3-species.jpg" alt="" onerror="this.parentElement.classList.add('no-img')"></div>
+            <div class="panel-head">
+              <h3><span class="zh">名字只剩个位，生命抵近阑珊</span><span class="en">Names End in Single Digits</span></h3>
+              <p>极危物种百种档案 · 首要威胁条形图</p>
+            </div>
+            <div class="chart-box"><svg id="chart-threats"></svg></div>
+            <div class="spotlight-grid" id="species-spotlight"></div>
+            <p class="panel-caption" id="caption-threats"></p>
+          </div>
+
+          <div class="chart-panel" data-chart="status">
+            <div class="panel-head">
+              <h3><span class="zh">红线铺开光谱，余生刻度渐短</span><span class="en">From Safe to Critical</span></h3>
+              <p>IUCN 红色名录 · 无危→极危 等级条形图</p>
+            </div>
+            <div class="chart-box"><svg id="chart-status"></svg></div>
+            <p class="panel-caption" id="caption-status"></p>
+          </div>
+
+          <div class="chart-panel" data-chart="penguin">
+            <div class="panel-head">
+              <h3><span class="zh">南极身体先响，脂肪把警报点燃</span><span class="en">Antarctica's Body Alarms</span></h3>
+              <p>Palmer 企鹅 · 三物种健康比例柱形图</p>
+            </div>
+            <div class="chart-filters inline" id="penguin-filters">
+              <button class="filter-btn active" data-metric="all">All 全部</button>
+              <button class="filter-btn" data-metric="healthy">Healthy 健康</button>
+              <button class="filter-btn" data-metric="overweight">Overweight 超重</button>
+              <button class="filter-btn" data-metric="underweight">Underweight 偏瘦</button>
+            </div>
+            <div class="chart-box"><svg id="chart-penguin"></svg></div>
+            <p class="panel-caption" id="caption-penguin"></p>
+          </div>
+        </div>
+      </aside>
+
+      <div class="steps-pane">
+        <!-- ACT I -->
+        <article class="step is-active" data-step="0" data-chart="global">
+          <p class="step-idx"><span class="en">ACT I</span> · 第一幕</p>
+          <div class="display-num" id="display-act1">—</div>
+          <p class="display-label" id="label-act1">1970→2020 · 全球种群指数</p>
+          <h2>从100跌到13，万物沉入长寒 <em>Fifty Years of Falling</em></h2>
+          <div class="step-body">
+            <p class="lead-text">地球生命力指数把 <strong id="txt-populations">—</strong> 条监测记录，压缩成一条曲线。1970 年，一切从 100 开始；半个世纪后，全球中位数停在谷底——这不是某个物种的偶然失手，而是整张地球脉搏的系统性退场。</p>
+            <div class="fact-grid" id="facts-act1"></div>
+            <blockquote class="pull-quote" id="quote-act1">
+              数据加载中……
+              <cite>地球生命力指数 · 趋势方向统计</cite>
+            </blockquote>
+            <ul class="data-list" id="list-act1"></ul>
+            <div class="callout" id="stat-global-change">—</div>
+            <p class="note">在左侧图表上移动鼠标，按年份读取指数——曲线会说话，但很少大声。</p>
+          </div>
+        </article>
+
+        <!-- ACT II -->
+        <article class="step" data-step="1" data-chart="regions">
+          <p class="step-idx"><span class="en">ACT II</span> · 第二幕</p>
+          <div class="display-num" id="display-act2">—</div>
+          <p class="display-label" id="label-act2">区域最大降幅</p>
+          <h2>大洋洲退到11，裂痕延向远岸 <em>Where Oceania Went</em></h2>
+          <div class="step-body">
+            <p class="lead-text">全球均值是统计学上的安慰剂。大洋洲五十年跌去近九成，亚洲、非洲各走各路；唯一逆势上扬的，是国际水域的 <strong>+33.2%</strong>。同一张地球，不同大陆，写着完全不同的结局。</p>
+            <div class="fact-grid" id="facts-act2"></div>
+            <blockquote class="pull-quote" id="quote-act2">
+              同一条曲线，在不同经纬度上，意味着繁荣、停滞，或消失。
+              <cite>LPI 区域变化 · 1970→2020</cite>
+            </blockquote>
+            <ul class="data-list" id="list-act2"></ul>
+            <div class="callout callout--warn" id="stat-worst-region">—</div>
+            <p class="note">点击区域线条，高亮这片大陆五十年间的命运分叉。</p>
+          </div>
+        </article>
+
+        <!-- ACT III -->
+        <article class="step" data-step="2" data-chart="threats">
+          <p class="step-idx"><span class="en">ACT III</span> · 第三幕</p>
+          <div class="display-num" id="display-act3">—</div>
+          <p class="display-label" id="label-act3">全球最少种群数</p>
+          <h2>名字只剩个位，生命抵近阑珊 <em>Names End in Single Digits</em></h2>
+          <div class="step-body">
+            <p class="lead-text">曲线尽头是名字，不是百分比。在全球最濒危的物种档案里，有些计数已经小到难以直视——不丹藓只剩 2 个亚种群，赤鳍蓝眼鱼只剩 2 条，斑鳖只剩 3 个个体。威胁的名字各不相同，结局却指向同一个方向。</p>
+            <div class="fact-grid" id="facts-act3"></div>
+            <div class="species-wall" id="species-act3"></div>
+            <blockquote class="pull-quote" id="quote-act3">
+              南方周末曾写：「野生种一龟难寻。」在这里，有些物种连「一」都快要数不出来了。
+              <cite>极危物种百种档案 · 本项目数据</cite>
+            </blockquote>
+            <ul class="data-list" id="list-act3"></ul>
+            <div class="callout callout--warn" id="stat-lowest-pop">—</div>
+            <p class="note">点击威胁条形，筛选下方中文物种卡片。</p>
+          </div>
+        </article>
+
+        <!-- ACT IV -->
+        <article class="step" data-step="3" data-chart="status">
+          <p class="step-idx">第四幕</p>
+          <div class="display-num" id="display-act4">—</div>
+          <p class="display-label" id="label-act4">IUCN 受威胁物种</p>
+          <h2>红线铺开光谱，余生刻度渐短 <em>From Safe to Critical</em></h2>
+          <div class="step-body">
+            <p class="lead-text">205 份动物档案铺开一道 IUCN 光谱：68 种仍标注「无危」，却有 88 种已踩在极危、濒危、易危的红线上。保护等级不是贴纸，而是距离灭绝还有几步的刻度尺。</p>
+            <div class="fact-grid" id="facts-act4"></div>
+            <blockquote class="pull-quote" id="quote-act4">
+              无危与极危之间，隔着的不是一道墙，而是一段正在变短的时间。
+              <cite>Animal Information Dataset · IUCN Status</cite>
+            </blockquote>
+            <ul class="data-list" id="list-act4"></ul>
+            <div class="callout" id="stat-endangered-count">—</div>
+            <p class="note">悬停等级条形，读取每个 IUCN 等级有多少物种。</p>
+          </div>
+        </article>
+
+        <!-- ACT V -->
+        <article class="step" data-step="4" data-chart="penguin">
+          <p class="step-idx"><span class="en">ACT V</span> · 第五幕</p>
+          <div class="display-num" id="display-act5">—</div>
+          <p class="display-label" id="label-act5">Palmer 企鹅监测</p>
+          <h2>南极身体先响，脂肪把警报点燃 <em>Antarctica's Body Alarms</em></h2>
+          <div class="step-body">
+            <p class="lead-text">宏观曲线向下时，微观身体先发出信号。Palmer 群岛 3,430 只企鹅的体重与健康指标，记录着生态系统最细小的偏移——巴布亚企鹅 40.9% 超重，阿德利、帽带也在改写各自的体重曲线。问题，往往先写在脂肪里。</p>
+            <div class="fact-grid" id="facts-act5"></div>
+            <blockquote class="pull-quote" id="quote-act5">
+              想衡量生物多样性，不妨先给动物称一次体重。在这里，体重就是警报器。
+              <cite>Palmer Penguins Extended Dataset</cite>
+            </blockquote>
+            <ul class="data-list" id="list-act5"></ul>
+            <div class="callout callout--warn" id="stat-overweight">—</div>
+            <p class="note">切换健康筛选，柱上百分比即身体信号。</p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </main>
+
+  <section class="outro">
+    <div class="outro-inner">
+      <h2><span class="zh">尾声</span> <span class="en">Afterword</span></h2>
+      <p class="outro-lead">本项目以四套数据集为底，串联「宏观趋势—区域落差—物种个案—保护等级—微观体征」五幕叙事。以下说明数据来源、处理方法与人机协作分工，供读者核阅与复现参考。</p>
+      <div class="outro-grid">
+        <div class="outro-col">
+          <h3 class="outro-col-head">
+            <span class="outro-col-num">I</span>
+            <span class="outro-col-zh">数据来源</span>
+            <span class="outro-col-en">Sources</span>
+          </h3>
+          <ul>
+            <li><strong>地球生命力指数</strong> — WWF 与伦敦动物学会合作发布，纳入 29,625 条种群监测记录，覆盖 1970–2020 全球野生脊椎动物变化</li>
+            <li><strong>极危物种百种档案</strong> — 基于 IUCN 红色名录筛选的 90 种极危物种个案，含栖息地、威胁因子与保护现状</li>
+            <li><strong>动物信息数据集</strong> — 205 份哺乳动物、鸟类等基础档案，用于第四幕保护等级与生态位分布</li>
+            <li><strong>帕尔默企鹅扩展数据集</strong> — 南极帕尔默站 3,430 只阿德利、巴布亚、帽带企鹅个体测量记录，支撑第五幕健康体征分析</li>
+          </ul>
+        </div>
+        <div class="outro-col">
+          <h3 class="outro-col-head">
+            <span class="outro-col-num">II</span>
+            <span class="outro-col-zh">方法论</span>
+            <span class="outro-col-en">Methodology</span>
+          </h3>
+          <p>第一幕按年份对物种指数取<strong>中位数</strong>聚合，基准年 1970 = 100，避免个体数、密度、出现率等不同监测单位直接混加。第二幕取 1970 与 2020 两个端点计算区域相对变化，坡度图按降幅排序。第三幕威胁标签经关键词映射与频次合并，种群数量为档案文本解析的近似值，仅用于叙事可视化。第四幕按无危→极危顺序编码 IUCN 等级。第五幕以 2007 年同类雌性企鹅体重 95% 置信区间为健康基准，统计超重与偏瘦占比。</p>
+        </div>
+        <div class="outro-col">
+          <h3 class="outro-col-head">
+            <span class="outro-col-num">III</span>
+            <span class="outro-col-zh">人机协作</span>
+            <span class="outro-col-en">Collaboration</span>
+          </h3>
+          <p>数据集清洗、JSON 导出、滚动叙事骨架与五幕图表由 AI 辅助实现；叙事主线、数据口径、中文物种名与威胁译名由人工审核定稿。标题押韵句式参考普利策解释性报道，正文参照南方周末特稿的层层递进，图表注解力求口语化、可被非专业读者读懂。经可读性测试，视觉方案从 3D 地形、桑基图等高冲击形式，回归折线、坡度、横向条形等「先讲清楚再好看」的图表。完整 Prompt 策略与迭代记录见 <code>ai-collaboration.md</code>。</p>
+        </div>
+      </div>
+      <p class="credit">FDU Journalism · AIGC Narrative Viz Sprint · 2026.06.13</p>
+    </div>
+  </section>
+
+  <div class="tooltip" id="tooltip"></div>
+  <script src="js/vendor/d3.min.js"></script>
+  <script src="js/species-zh.js?v=2"></script>
+  <script src="js/content.js?v=10"></script>
+  <script src="js/charts.js?v=12"></script>
+  <script src="js/scroll.js"></script>
+  <script src="js/main.js?v=8"></script>
+</body>
+</html>

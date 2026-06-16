@@ -1,0 +1,10 @@
+{
+  "title": "One物生灵：从1970到今天，一部正在归零的种群档案",
+  "datasets": [
+    "Living Planet Index (LPD_2024_public.csv)",
+    "Top 100 Most Endangered Species (Species.csv)",
+    "Animal Information Dataset (Animal Dataset.csv)",
+    "Palmer Penguins Extended (palmerpenguins_extended.csv)"
+  ],
+  "generated": true
+}
